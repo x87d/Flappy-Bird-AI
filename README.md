@@ -1,6 +1,6 @@
 # 🐦 Flappy Bird — NEFT AI (No ML Libraries)
 
-A self-learning Flappy Bird AI built from scratch using **Neuro-Evolution with Fixed Topologies (NEFT)** and **Pygame**. No TensorFlow, no PyTorch — just pure Python and math.
+A self-learning Flappy Bird AI built from scratch using **Neuro-Evolution with Fixed Topologies (NEFT)** and **Pygame**. with just Python and math.
 
 ![Preview](preview.gif)
 
